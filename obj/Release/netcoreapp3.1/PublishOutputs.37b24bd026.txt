@@ -1,0 +1,14 @@
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\MyMicroservice.exe
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\appsettings.json
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\MyMicroservice.dll
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\MyMicroservice.deps.json
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\MyMicroservice.runtimeconfig.json
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\MyMicroservice.pdb
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\Microsoft.OpenApi.dll
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projetos\Git\MyMicroservice\bin\Release\netcoreapp3.1\publish\MyMicroservice.xml
